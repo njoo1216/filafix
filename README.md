@@ -21,8 +21,8 @@ You can change the input file name, but input file should be followed this form:
 ### 2.Output/Result
 If there is a solution that is satisfiable with input, 
 then it will show output on linux terminal as following:
--Cells assigned as Black is represented as '1'.
--Cells assigned as White is represented as '0'.
+- Cells assigned as Black is represented as '1'.
+- Cells assigned as White is represented as '0'.
 
 ```bash
 1 1 1 0 0
