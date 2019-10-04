@@ -5,7 +5,8 @@ Fill-a-Pix is to figure out whether the color of each cell of a N×M grid is Whi
 ## How To Use
 
 ### 1.Input
-You can change the input file name, but input file should be followed this form:
+You cannot change the input file name, it should be 'insert.txt'. 
+Also input file should be followed this form:
 - Every cells should be sperated by a space character(' '). 
 - Unknwon cells which has no assigned value should be filled with question mark('?').
 - Pre-assigned cells should be filled with the assigned number.
@@ -45,23 +46,10 @@ then it will show output on linux terminal as following:
 - If there are mutiple solutions, it will print out solutions up to 5.
 
 ### 3.Command
+Before execute, there should be a shell script file('fillapix.sh').
 
-
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```linux
+chmod +x fillapix.sh
+./fillapix.sh
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)-
