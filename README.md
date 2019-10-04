@@ -37,7 +37,9 @@ then it will show output on linux terminal as following:
 1 1 0 1 0
 1 1 1 1 0
 
-....
+.
+.
+.
 ```
 - If there is no solution, it will print out "No solution".
 - If there are mutiple solutions, it will print out solutions up to5.
