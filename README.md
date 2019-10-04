@@ -42,7 +42,7 @@ then it will show output on linux terminal as following:
 .
 ```
 - If there is no solution, it will print out "No solution".
-- If there are mutiple solutions, it will print out solutions up to5.
+- If there are mutiple solutions, it will print out solutions up to 5.
 
 ### 3.Command
 
